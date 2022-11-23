@@ -4,7 +4,7 @@ import UserLists from './components/UserLists';
 
 function App() {
   return (
-    <div className="App">
+    <div className="app bg-teal-900 flex flex-col items-center">
       <Form/>
       <UserLists/>
     </div>
