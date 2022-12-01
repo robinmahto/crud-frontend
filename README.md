@@ -1,3 +1,8 @@
-# CRUD Application
+# CRUD Application Frontend
 
-## Tech Stack : React, Node, MongoDB.
+## Tech Stack Used :
+ 1. React.js
+
+ ## APP URL
+
+ [click here](https://crud-frontend-phi.vercel.app/)
